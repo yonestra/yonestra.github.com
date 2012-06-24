@@ -1,11 +1,15 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
+        <loc>http://yonestra.github.com/blog/2012/06/25/tesuto/</loc>
+        <lastmod>2012-06-25T01:14:20+09:00</lastmod>
+    </url>
+    <url>
         <loc>http://yonestra.github.com/blog/archives/</loc>
-        <lastmod>2012-06-25T00:49:41+09:00</lastmod>
+        <lastmod>2012-06-25T01:14:20+09:00</lastmod>
     </url>
     <url>
         <loc>http://yonestra.github.com/</loc>
-        <lastmod>2012-06-25T00:49:41+09:00</lastmod>
+        <lastmod>2012-06-25T01:14:20+09:00</lastmod>
     </url>
 </urlset>
